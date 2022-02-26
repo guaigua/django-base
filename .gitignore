@@ -1,5 +1,6 @@
 # Environments:
-environments
+environments/
+.idea/
 
 # Created by https://www.toptal.com/developers/gitignore/api/django,python,vscode,windows,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=django,python,vscode,windows,macos
